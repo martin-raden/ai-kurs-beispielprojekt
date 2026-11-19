@@ -1,0 +1,6 @@
+Datum,TransaktionsID,Währung,Betrag,Beschreibung
+22.10.2023,TXN001,EUR,100.00,Einkauf im Supermarkt
+23.10.2023,TXN002,USD,250.50,Online-Kauf
+23.10.2023,TXN003,EUR,75.20,Restaurantbesuch
+24.10.2023,TXN004,GBP,150.00,Buchung im Hotel
+25.10.2023,TXN005,EUR,200.00,Autoreparatur
